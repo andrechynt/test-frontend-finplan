@@ -1,5 +1,9 @@
 # Test Front End Finplan
 
+# Profile
+Nama  : Mochammad Andre Cahyanto <br>
+Email : m.andrechynt@gmail.com
+
 # Project Description <a name="project-desc"></a>
 Cara menjalankan program:
 - Download semua file pada github
