@@ -1,0 +1,11 @@
+- get bootstrap
+- img width html
+- figma download icon as png
+- box shadow css generator
+- set button always on bottom in html
+- How get the image src value
+- previous page js
+- html button full width
+- get path value src html then parse tostring
+- custom border css
+- google font
